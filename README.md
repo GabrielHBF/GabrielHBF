@@ -1,5 +1,4 @@
 #### Oi me chamo Gabriel
-Cursando Análise e Desenvolvimento de Sistemas pela Universidade Paulista!
 
 <div style="width: max-content;">
 

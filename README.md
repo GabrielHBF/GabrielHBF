@@ -1,6 +1,6 @@
 # Olá, eu sou o Gabriel! 👋
 
-Desenvolvedor apaixonado por tecnologia, focado em criar soluções eficientes e escaláveis. Atualmente, dedico meus estudos e projetos ao ecossistema **.NET** e **Java**, explorando desde o desenvolvimento Backend até interfaces modernas com CSS3 e HTML5.
+Desenvolvedor apaixonado por tecnologia, focado em criar soluções eficientes e escaláveis. Atualmente, dedico meus estudos e projetos ao ecossistema **.NET** e **Java**, explorando desde o desenvolvimento Backend até interfaces modernas.
 
 ---
 
